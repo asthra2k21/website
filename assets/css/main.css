@@ -877,6 +877,10 @@ a.back-to-top:focus {
   font-weight: 700;
 }
 
+.about-text{
+  text-align: justify;
+}
+
 .about-content .about-text h6 {
   font-size: 18px;
   line-height: 32px;
