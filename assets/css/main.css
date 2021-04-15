@@ -51,6 +51,10 @@ p {
   font-size: 14px;
 }
 
+.imgg{
+  height: 150px;
+}
+
 ul,
 ol {
   list-style: outside none none;
